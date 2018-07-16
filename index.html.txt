@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<link href="https://fonts.googleapis.com/css?family=Exo:900|Lato:300|Poppins|Teko:700" rel="stylesheet">
+
+<h1> Contact Us </h1>
+<p> UMarylandigem@gmail.com </p>
+<p> </p>
+<i class="fa fa-map-marker fa-lg"> </i>
+Biology - Psychology Building </p>
+<p>4094 Campus Dr, College Park, MD 20742</p>
+
+
+<div class = "center"
+<p>&copy; University of Maryland iGEM 2018</p>
+</div>
+  
+<div class = "right">
+<h1> Follow us on </h1> 
+ <div class = "images">
+<a href ="https://www.facebook.com/UMarylandiGEM/"> <img src = "facebook.png" width = "30" height = "30" id= "facebook"> </a> 
+<a href= "https://www.instagram.com/umarylandigem"> <img src = "instagram.png" width = "50" height = "50" id = "instagram" </a>
+  </div>
+  </div>
+</html>
+
+<style type="text/css">
+
+
+body {
+  margin: 0;
+  font-family: Exo, Poppins, sans-serif;
+  font-size: 15px;
+  line-height: 10px;
+  color: grey ; 
+  background-color:black;
+} 
+.center {
+    text-align:center;
+		margin-top: -80px;
+}
+
+.right {text-align: right;
+  	padding-right: 50px;
+		margin-bottom: 0px;
+		margin-top: -60px;
+		padding-top: 0px;
+    padding-bottom: -30px
+}
+.images { padding-right: 30px;
+margin-top: -10px}
+#instagram { margin-bottom: -10px}
+
+</style>
